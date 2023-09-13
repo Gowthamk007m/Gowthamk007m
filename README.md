@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Gowtham K M</h1>
-<h3 align="center">A passionate frontend developer from Kerela</h3>
+<h3 align="center">A passionate Python Full Stack developer from Kerela</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gowthamk007m&label=Profile%20views&color=0e75b6&style=flat" alt="gowthamk007m" /> </p>
 
 - 🔭 I’m currently working on **Instagram Clone App**
 
-- 🌱 I’m currently learning **FireBase**
+- 🌱 I’m currently learning **redux toolkit**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Gowthamk007m](https://github.com/Gowthamk007m)
 

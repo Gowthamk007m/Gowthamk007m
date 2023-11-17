@@ -9,8 +9,10 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Gowthamk007m](https://github.com/Gowthamk007m)
 
-- 📫 How to reach me **gowthamk007m@gmail.com**
+- 📫 See my portfolio [https://gowthamkmportfolio.netlify.app](https://gowthamkmportfolio.netlify.app)
 
+- 📫 How to reach me **gowthamk007m@gmail.com**
+  
 - ⚡ Fun fact **I Create Hope**
 
 <h3 align="left">Connect with me:</h3>

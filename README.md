@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gowthamk007m&label=Profile%20views&color=0e75b6&style=flat" alt="gowthamk007m" /> </p>
 
-- 🔭 I’m currently working on **Instagram Clone App**
+- 🔭 I’m currently working on **Trading application**
 
-- 🌱 I’m currently learning **redux toolkit**
+- 🌱 I’m currently learning **Docker**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Gowthamk007m](https://github.com/Gowthamk007m)
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **gowthamk007m@gmail.com**
   
-- ⚡ Fun fact **I Create Hope**
+- ⚡ Fun fact **Takes up the impossible**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

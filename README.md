@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **gowthamk007m@gmail.com**
   
-- ⚡ Fun fact **Takes up the impossible**
+- ⚡ Fun fact **Quality over Quantity**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

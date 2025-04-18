@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/Gowthamk007m)
 
-- 📫 See my portfolio [Portfolio](gowtham-km-portfolio.netlify.app)
+- 📫 See my portfolio [Portfolio](https://gowtham-km-portfolio.netlify.app)
 
 - 📫 How to reach me **gowthamk007m@gmail.com**
 
